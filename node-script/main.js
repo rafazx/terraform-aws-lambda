@@ -2,7 +2,7 @@ const axios = require("axios");
 const fs = require('fs');
 
 const datas = JSON.parse(fs.readFileSync('./request.json'))
-const url = 'https://9qbzsnaekh.execute-api.us-east-1.amazonaws.com/dev/api'
+const url = 'YOUR API URL'
 
 console.log('Data Length:' + datas.length)
 
