@@ -3,7 +3,7 @@ variable "region" {
 }
 
 variable "account_id" {
-    default = "537782080257"
+    default = "YOU_ACCONT_ID"
 }
 
 variable "function_name" {
