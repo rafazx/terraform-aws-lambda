@@ -4,4 +4,4 @@ Change in variables.tf the variable "account_id" to your account_id.
 
 The node-script i'ts a scrpit that will make 1000 requisitions on Lambda.
 
-![Screenshot](architecture.png)
+![Optional Text](../master/architecture.png)
